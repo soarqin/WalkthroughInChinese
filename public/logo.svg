@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="中文攻略库标志">
+  <rect width="64" height="64" rx="18" fill="#211b16"/>
+  <path d="M18 18h28v8H34v7h10v8H34v15h-8V41H16v-8h10v-7h-8z" fill="#fff8ec"/>
+  <circle cx="47" cy="47" r="7" fill="#d7a84f"/>
+</svg>

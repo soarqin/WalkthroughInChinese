@@ -1,0 +1,109 @@
+import { defineConfig } from 'vitepress'
+
+export default defineConfig({
+  lang: 'zh-CN',
+  title: '中文游戏攻略合集',
+  description: '按游戏归档的中文 Markdown 攻略合集',
+  cleanUrls: true,
+  lastUpdated: true,
+  head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }]],
+  themeConfig: {
+    logo: '/logo.svg',
+    nav: [
+      { text: '首页', link: '/' },
+      { text: '攻略目录', link: '/games/' },
+      { text: '项目说明', link: '/README' }
+    ],
+    sidebar: {
+      '/games/tales-of-symphonia/': [
+        {
+          text: 'Tales of Symphonia',
+          items: [
+            { text: '攻略首页', link: '/games/tales-of-symphonia/' },
+            { text: '一周目 01：序章与火之封印', link: '/games/tales-of-symphonia/第一周目流程-01-序章与火之封印' },
+            { text: '一周目 02：水与风封印', link: '/games/tales-of-symphonia/第一周目流程-02-水之封印与风之封印' },
+            { text: '一周目 03：光封印与提瑟亚拉', link: '/games/tales-of-symphonia/第一周目流程-03-光之封印与提瑟亚拉初到' },
+            { text: '一周目 04：精灵神殿与孤岛牧场', link: '/games/tales-of-symphonia/第一周目流程-04-提瑟亚拉精灵神殿与孤岛牧场' },
+            { text: '一周目 05：弗拉诺尔与终盘', link: '/games/tales-of-symphonia/第一周目流程-05-弗拉诺尔事件与终盘' },
+            { text: '二周目：克拉特斯路线', link: '/games/tales-of-symphonia/第二周目流程-克拉特斯路线' },
+            { text: '三周目：杰洛斯路线', link: '/games/tales-of-symphonia/第三周目流程-杰洛斯路线' },
+            { text: '四周目：专家级与总清算', link: '/games/tales-of-symphonia/第四周目流程-专家级与总清算' },
+            { text: '白金路线', link: '/games/tales-of-symphonia/白金路线' },
+            { text: '流程与战斗奖杯', link: '/games/tales-of-symphonia/奖杯攻略-流程与战斗' },
+            { text: '称号与收集奖杯', link: '/games/tales-of-symphonia/奖杯攻略-称号与收集' },
+            { text: '支线与挑战奖杯', link: '/games/tales-of-symphonia/奖杯攻略-支线与挑战' },
+            { text: '名词对照表', link: '/games/tales-of-symphonia/名词对照表' }
+          ]
+        }
+      ],
+      '/games/': [
+        {
+          text: '攻略目录',
+          items: [
+            { text: '全部游戏', link: '/games/' },
+            { text: 'Tales of Symphonia', link: '/games/tales-of-symphonia/' }
+          ]
+        }
+      ],
+      '/': [
+        {
+          text: '项目',
+          items: [
+            { text: '首页', link: '/' },
+            { text: '项目说明', link: '/README' },
+            { text: '攻略目录', link: '/games/' }
+          ]
+        }
+      ]
+    },
+    search: {
+      provider: 'local',
+      options: {
+        translations: {
+          button: {
+            buttonText: '搜索文档',
+            buttonAriaLabel: '搜索文档'
+          },
+          modal: {
+            displayDetails: '显示详情',
+            resetButtonTitle: '清除搜索',
+            backButtonTitle: '关闭搜索',
+            noResultsText: '没有找到结果',
+            footer: {
+              selectText: '选择',
+              selectKeyAriaLabel: '回车键',
+              navigateText: '切换',
+              navigateUpKeyAriaLabel: '上方向键',
+              navigateDownKeyAriaLabel: '下方向键',
+              closeText: '关闭',
+              closeKeyAriaLabel: 'Esc 键'
+            }
+          }
+        }
+      }
+    },
+    editLink: {
+      pattern: '',
+      text: '编辑此页'
+    },
+    docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    },
+    outline: {
+      label: '本页目录'
+    },
+    lastUpdated: {
+      text: '最后更新',
+      formatOptions: {
+        dateStyle: 'medium',
+        timeStyle: 'short'
+      }
+    },
+    footer: {
+      message: '代码采用 MIT 协议。攻略文档采用 CC BY-SA 4.0 协议。',
+      copyright: 'Copyright © 2026 WalkthroughInChinese contributors'
+    }
+  }
+})
+

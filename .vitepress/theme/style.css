@@ -1,0 +1,25 @@
+:root {
+  --vp-c-brand-1: #b9442e;
+  --vp-c-brand-2: #c95c43;
+  --vp-c-brand-3: #dc8062;
+  --vp-c-sponsor: #d7a84f;
+  --vp-font-family-base: "Microsoft YaHei", "PingFang SC", "Noto Sans SC", sans-serif;
+  --vp-font-family-mono: "JetBrains Mono", "SFMono-Regular", Consolas, monospace;
+}
+
+.VPHomeHero .name,
+.VPHomeHero .text {
+  letter-spacing: -0.04em;
+}
+
+.VPHomeHero .tagline {
+  max-width: 720px;
+}
+
+.VPFeature {
+  border-color: rgba(185, 68, 46, 0.18);
+}
+
+.vp-doc h2 {
+  border-top: 0;
+}
