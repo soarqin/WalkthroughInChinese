@@ -15,6 +15,19 @@ export default defineConfig({
       { text: '项目说明', link: '/README' }
     ],
     sidebar: {
+      '/games/chrono-cross/': [
+        {
+          text: 'CHRONO CROSS',
+          items: [
+            { text: '攻略首页', link: '/games/chrono-cross/' },
+            { text: '流程 01：开局与三次分支', link: '/games/chrono-cross/流程-01-开局与三次分支' },
+            { text: '流程 02：Fort Dragonia 前后', link: '/games/chrono-cross/流程-02-Fort-Dragonia-前后' },
+            { text: '流程 03：Dragon\'s Blessing 与终盘准备', link: '/games/chrono-cross/流程-03-Dragon-Blessing-与终盘准备' },
+            { text: '流程 04：终盘成就与额外系统', link: '/games/chrono-cross/流程-04-终盘成就与额外系统' },
+            { text: 'Radical Dreamers 路线', link: '/games/chrono-cross/Radical-Dreamers-路线与致谢' }
+          ]
+        }
+      ],
       '/games/tales-of-symphonia/': [
         {
           text: 'Tales of Symphonia',
@@ -41,6 +54,7 @@ export default defineConfig({
           text: '攻略目录',
           items: [
             { text: '全部游戏', link: '/games/' },
+            { text: 'CHRONO CROSS', link: '/games/chrono-cross/' },
             { text: 'Tales of Symphonia', link: '/games/tales-of-symphonia/' }
           ]
         }
@@ -106,4 +120,3 @@ export default defineConfig({
     }
   }
 })
-
