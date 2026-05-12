@@ -2,6 +2,17 @@
 
 中文游戏攻略合集用于整理、发布和维护中文游戏攻略。项目使用 VitePress 展示 Markdown 文件，攻略文档按游戏独立归档，便于通过 Web 页面浏览，也便于在 Git 仓库中审阅和协作。
 
+## 在线访问
+
+- 主站（Cloudflare Pages）：`https://<待填写>.pages.dev/`
+- 镜像（GitHub Pages）：https://soarqin.github.io/WalkthroughInChinese/
+
+主站与镜像内容一致。主站全球访问稳定，镜像作为冗余备份。
+
+部署架构与配置流程见：
+- `.sisyphus/docs/cloudflare-setup.md` — Cloudflare Pages 接入引导
+- `.sisyphus/docs/github-pages-setup.md` — GitHub Pages 接入引导
+
 ## 本地预览
 
 安装依赖后启动开发服务器：
