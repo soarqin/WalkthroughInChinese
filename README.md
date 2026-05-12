@@ -4,7 +4,7 @@
 
 ## 在线访问
 
-- 主站（Cloudflare Pages）：`https://<待填写>.pages.dev/`
+- 主站（Cloudflare Pages）：https://walkthroughinchinese.pages.dev/
 - 镜像（GitHub Pages）：https://soarqin.github.io/WalkthroughInChinese/
 
 主站与镜像内容一致。主站全球访问稳定，镜像作为冗余备份。
