@@ -8,7 +8,7 @@
 
 - 物品 (@Rainbow Shell)：趁 Element 商人不在时，搜刮她的手推车。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960356219870/1D13B004416A9711C9546EC35222DB41EB14377A/)](https://images.steamusercontent.com/ugc/1854928960356219870/1D13B004416A9711C9546EC35222DB41EB14377A/)
+[![截图](./assets/steam-127.webp)](./assets/steam-127.webp)
 
 ---
 
@@ -18,7 +18,7 @@
 
 - Tech (Steena)：前往我们在 Home World 中为了救 Razzly 而打开洞口的位置，并从这个新洞口下去。击败 Boss 即可获得 Tech 「Hydra's Shadow」。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961308914/2A3F3EEC07185241D82D6AB04909112454C87162/)](https://images.steamusercontent.com/ugc/1854928240961308914/2A3F3EEC07185241D82D6AB04909112454C87162/)
+[![截图](./assets/steam-128.webp)](./assets/steam-128.webp)
 
 ---
 
@@ -28,7 +28,7 @@
 
 - Tech (Draggy)：带着 Draggy 前往我们获取 Skelly's Heavy Skull 的位置，即可获得 「Big Breath」。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961335216/968147EAC0780C657BA91262C806F94BD58258D2/)](https://images.steamusercontent.com/ugc/1854928240961335216/968147EAC0780C657BA91262C806F94BD58258D2/)
+[![截图](./assets/steam-129.webp)](./assets/steam-129.webp)
 
 ---
 
@@ -40,9 +40,9 @@
 
 注意：这并不是一个分支，因为你稍后会在 Another World 的 S.S. Invincible 获得另一位成员。同样地，选择 Zoah 会节省一些时间。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961367836/A940253590D628718F3F0FEAAA47D6B43C324641/)](https://images.steamusercontent.com/ugc/1854928240961367836/A940253590D628718F3F0FEAAA47D6B43C324641/)
+[![截图](./assets/steam-130.webp)](./assets/steam-130.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961368073/F8BF556A00F8FAE31E06902E4E6E7E26CD85C55F/)](https://images.steamusercontent.com/ugc/1854928240961368073/F8BF556A00F8FAE31E06902E4E6E7E26CD85C55F/)
+[![截图](./assets/steam-131.webp)](./assets/steam-131.webp)
 
 ---
 
@@ -73,23 +73,23 @@
 - Ending 6: The Last Stand
 在 New Game+ 中，在营救 Riddel 后不久访问 Hermit's Hideaway 之前击败 Time Devourer。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961629531/30F5FBC1870CFE59B557B4F136CEC64480714CFD/)](https://images.steamusercontent.com/ugc/1854928240961629531/30F5FBC1870CFE59B557B4F136CEC64480714CFD/)
+[![截图](./assets/steam-132.webp)](./assets/steam-132.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961629538/DE242EB8AC7700EC5E7F458060D4ACDF19374489/)](https://images.steamusercontent.com/ugc/1854928240961629538/DE242EB8AC7700EC5E7F458060D4ACDF19374489/)
+[![截图](./assets/steam-133.webp)](./assets/steam-133.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961629545/E14E62F2E7083F97AEA5C33AF6E72988F3672F05/)](https://images.steamusercontent.com/ugc/1854928240961629545/E14E62F2E7083F97AEA5C33AF6E72988F3672F05/)
+[![截图](./assets/steam-134.webp)](./assets/steam-134.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961629553/B16D2EFF2EF1AEA78844F490938556AB050E4B7E/)](https://images.steamusercontent.com/ugc/1854928240961629553/B16D2EFF2EF1AEA78844F490938556AB050E4B7E/)
+[![截图](./assets/steam-135.webp)](./assets/steam-135.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961629524/7878B14952B3ADAF42F8E88C7B8F64DF9C1FADD2/)](https://images.steamusercontent.com/ugc/1854928240961629524/7878B14952B3ADAF42F8E88C7B8F64DF9C1FADD2/)
+[![截图](./assets/steam-136.webp)](./assets/steam-136.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961631210/AF99D1380F25C0BB7D1AD66A340D642AF2F65C55/)](https://images.steamusercontent.com/ugc/1854928240961631210/AF99D1380F25C0BB7D1AD66A340D642AF2F65C55/)
+[![截图](./assets/steam-137.webp)](./assets/steam-137.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961631215/01189F32C1C77B3F620AE75FE07CFDB7ED141534/)](https://images.steamusercontent.com/ugc/1854928240961631215/01189F32C1C77B3F620AE75FE07CFDB7ED141534/)
+[![截图](./assets/steam-138.webp)](./assets/steam-138.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961631227/A935226753331739AC5AFFA080B38052EE42B820/)](https://images.steamusercontent.com/ugc/1854928240961631227/A935226753331739AC5AFFA080B38052EE42B820/)
+[![截图](./assets/steam-139.webp)](./assets/steam-139.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961631235/D1C9492A69A33C1AD14D9832B33CE1DF165F5FC9/)](https://images.steamusercontent.com/ugc/1854928240961631235/D1C9492A69A33C1AD14D9832B33CE1DF165F5FC9/)
+[![截图](./assets/steam-140.webp)](./assets/steam-140.webp)
 
 ## Home World 05
 
@@ -99,7 +99,7 @@
 
 - Tech (Orcha)：带着 Orcha 与餐厅的厨师交谈，即可获得 「Dinner Guest」。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961696596/1B525C22816B6D0E4E1245A1258AEE69DBE0A511/)](https://images.steamusercontent.com/ugc/1854928240961696596/1B525C22816B6D0E4E1245A1258AEE69DBE0A511/)
+[![截图](./assets/steam-141.webp)](./assets/steam-141.webp)
 
 ---
 
@@ -109,9 +109,9 @@
 
 - Tech (Funguy)：带着 Funguy 与你招募他时所在的洞穴里的小蘑菇交谈，即可获得 「Myconoids」。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961696603/215678E58C85369FD8844824A97893DB0C917256/)](https://images.steamusercontent.com/ugc/1854928240961696603/215678E58C85369FD8844824A97893DB0C917256/)
+[![截图](./assets/steam-142.webp)](./assets/steam-142.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961696610/E98F95F50D35AE5BDFBA7774940455D0B333A79B/)](https://images.steamusercontent.com/ugc/1854928240961696610/E98F95F50D35AE5BDFBA7774940455D0B333A79B/)
+[![截图](./assets/steam-143.webp)](./assets/steam-143.webp)
 
 额外内容：显然现在每个人都是 Serge。
 
@@ -129,7 +129,7 @@
 
 - Frame (Valencian Cloth)：带着由三名 Demi-humans 组成的队伍，与城镇入口处的蓝色 NPC 交谈。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960356857563/15FB3AE3BAD63F3407331EF5C7BE3D69B6BBC5E1/)](https://images.steamusercontent.com/ugc/1854928960356857563/15FB3AE3BAD63F3407331EF5C7BE3D69B6BBC5E1/)
+[![截图](./assets/steam-144.webp)](./assets/steam-144.webp)
 
 ---
 
@@ -139,7 +139,7 @@
 
 - 加入成员 (Riddel)：在烧焦的树内的事件之后，她会自动加入。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961751538/9E8C46AA8092228CD31CF23B89DB4AF5018F3090/)](https://images.steamusercontent.com/ugc/1854928240961751538/9E8C46AA8092228CD31CF23B89DB4AF5018F3090/)
+[![截图](./assets/steam-145.webp)](./assets/steam-145.webp)
 
 ---
 
@@ -153,13 +153,13 @@
 - Ending 8: The Dark Fate
 在 New Game+ 中，在 Chronopolis 击败 FATE 之前击败 Time Devourer。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961751545/301F93E114C18D4B9F42E19A0DF2A228B03D55CD/)](https://images.steamusercontent.com/ugc/1854928240961751545/301F93E114C18D4B9F42E19A0DF2A228B03D55CD/)
+[![截图](./assets/steam-146.webp)](./assets/steam-146.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961751560/AFCF282EDE1D70DD041D6C3DE561EC286E8A5836/)](https://images.steamusercontent.com/ugc/1854928240961751560/AFCF282EDE1D70DD041D6C3DE561EC286E8A5836/)
+[![截图](./assets/steam-147.webp)](./assets/steam-147.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961751563/4E621653300FF08FE52CA9B0069A129E799926E8/)](https://images.steamusercontent.com/ugc/1854928240961751563/4E621653300FF08FE52CA9B0069A129E799926E8/)
+[![截图](./assets/steam-148.webp)](./assets/steam-148.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961751573/912832B85E766DEFC5989B841A55BA8E17FD8DD4/)](https://images.steamusercontent.com/ugc/1854928240961751573/912832B85E766DEFC5989B841A55BA8E17FD8DD4/)
+[![截图](./assets/steam-149.webp)](./assets/steam-149.webp)
 
 ---
 
@@ -170,7 +170,7 @@
 - Tech (Zoah)：让 Zoah 作为领队进入 Manor 并前往他的房间，然后打开宝箱获得 「Toss & Spike」。
 注意：这是一个提醒，以防你之前选择了 Karsh。你可能还需要带上 Norris 让他们为你开门。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961629531/30F5FBC1870CFE59B557B4F136CEC64480714CFD/)](https://images.steamusercontent.com/ugc/1854928240961629531/30F5FBC1870CFE59B557B4F136CEC64480714CFD/)
+[![截图](./assets/steam-132.webp)](./assets/steam-132.webp)
 
 ---
 
@@ -183,9 +183,9 @@
 
 - 物品要求 (Mastermune)：击败 Solt 和 Peppor 还会获得关键物品 「Memento Pendant」，我们可以将其用于一场可选的 Boss 战。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960356974577/126917734B0DA770CA38412D5E74D23BEA4AB3D9/)](https://images.steamusercontent.com/ugc/1854928960356974577/126917734B0DA770CA38412D5E74D23BEA4AB3D9/)
+[![截图](./assets/steam-150.webp)](./assets/steam-150.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960356974931/96D33F133640F33E1905A0E6214F3644919ACB50/)](https://images.steamusercontent.com/ugc/1854928960356974931/96D33F133640F33E1905A0E6214F3644919ACB50/)
+[![截图](./assets/steam-151.webp)](./assets/steam-151.webp)
 
 ---
 
@@ -195,9 +195,9 @@
 
 - 要求 (Orlha)：击败她，在一段对话后不久即可获得 「Sapphire Brooch」。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961864462/C3DDF180C4212E0FDB9692314F670268511DF887/)](https://images.steamusercontent.com/ugc/1854928240961864462/C3DDF180C4212E0FDB9692314F670268511DF887/)
+[![截图](./assets/steam-152.webp)](./assets/steam-152.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240961864469/CD96C6C0CC5276FAF9475783B519A885346A50F5/)](https://images.steamusercontent.com/ugc/1854928240961864469/CD96C6C0CC5276FAF9475783B519A885346A50F5/)
+[![截图](./assets/steam-153.webp)](./assets/steam-153.webp)
 
 ## Home World 06 | Part 01
 
@@ -213,11 +213,11 @@
 - Ending 7: The Viper Orphanage
 在 New Game+ 中，在持有 Mastermune 的情况下，在 Chronopolis 击败 FATE 之前击败 Time Devourer。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960356980192/167D78FCA9404AD7628161C5CA048028AFEFAEC4/)](https://images.steamusercontent.com/ugc/1854928960356980192/167D78FCA9404AD7628161C5CA048028AFEFAEC4/)
+[![截图](./assets/steam-154.webp)](./assets/steam-154.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960356980665/74F34F5C957196A19BBA8BFD15A69BACC4326CE1/)](https://images.steamusercontent.com/ugc/1854928960356980665/74F34F5C957196A19BBA8BFD15A69BACC4326CE1/)
+[![截图](./assets/steam-155.webp)](./assets/steam-155.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960356981420/896046319787716D4393D7F15DBA8D5CF9DE0C65/)](https://images.steamusercontent.com/ugc/1854928960356981420/896046319787716D4393D7F15DBA8D5CF9DE0C65/)
+[![截图](./assets/steam-156.webp)](./assets/steam-156.webp)
 
 ---
 
@@ -229,9 +229,9 @@
 
 - 加入成员 (Miki)：解放 Marbule 后，前往 Zelbess' Restaurant 让她加入你的队伍。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240964556681/4F4262DAD6BEFD458A2849A12CE3B3956AB45F13/)](https://images.steamusercontent.com/ugc/1854928240964556681/4F4262DAD6BEFD458A2849A12CE3B3956AB45F13/)
+[![截图](./assets/steam-157.webp)](./assets/steam-157.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240964601234/3534D1088143E0AE5F9AE5A8696D6C0758667C56/)](https://images.steamusercontent.com/ugc/1854928240964601234/3534D1088143E0AE5F9AE5A8696D6C0758667C56/)
+[![截图](./assets/steam-158.webp)](./assets/steam-158.webp)
 
 ## Dragon's Blessing
 
@@ -254,9 +254,9 @@
 
 - 加入成员 (Leah)：当你第一次到达 Navel 时，她会暂时加入，击败 Green Dragon 后永久加入。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240965272796/13D96950B712F8D646FF5492BD004EC2E242470D/)](https://images.steamusercontent.com/ugc/1854928240965272796/13D96950B712F8D646FF5492BD004EC2E242470D/)
+[![截图](./assets/steam-159.webp)](./assets/steam-159.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240965272811/D85C93519E9F9D11567231497A56FF766F6018D2/)](https://images.steamusercontent.com/ugc/1854928240965272811/D85C93519E9F9D11567231497A56FF766F6018D2/)
+[![截图](./assets/steam-160.webp)](./assets/steam-160.webp)
 
 ---
 
@@ -266,7 +266,7 @@
 
 - 物品 (@Rainbow Shell)：当船长他们开发出炸药以深入洞穴时，他会将其作为谢礼送给你。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240965272822/EA6F6ABC3D65A3ADF093DB481FDE8816F88D898C/)](https://images.steamusercontent.com/ugc/1854928240965272822/EA6F6ABC3D65A3ADF093DB481FDE8816F88D898C/)
+[![截图](./assets/steam-161.webp)](./assets/steam-161.webp)
 
 ## Another World 06
 
@@ -281,7 +281,7 @@
 
 注意：解谜过程对我来说太烦了，所以祝你好运！另外，记得尝试偷取稀有的 @Rainbow Shell，让过程变得更烦人！
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960357981767/D68FF0AAC3773E3277F0FD40C45E50094BE92AA1/)](https://images.steamusercontent.com/ugc/1854928960357981767/D68FF0AAC3773E3277F0FD40C45E50094BE92AA1/)
+[![截图](./assets/steam-162.webp)](./assets/steam-162.webp)
 
 ---
 
@@ -291,9 +291,9 @@
 
 - Frame (Snakes & Orbs)：再拿一个 Ancient Fruit，在 Home World 中使用 Beeba Flute 的相同地点吹奏，前往 Gaea's Navel。然后向右走，击败树顶上的 Prehysteric 即可获得该 Frame。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960357167890/87C0CAC736BF148B33D80AA87AA9123B915830E5/)](https://images.steamusercontent.com/ugc/1854928960357167890/87C0CAC736BF148B33D80AA87AA9123B915830E5/)
+[![截图](./assets/steam-163.webp)](./assets/steam-163.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960357168418/FA9B404A931BB68AF514998E47C5A950BC268161/)](https://images.steamusercontent.com/ugc/1854928960357168418/FA9B404A931BB68AF514998E47C5A950BC268161/)
+[![截图](./assets/steam-164.webp)](./assets/steam-164.webp)
 
 ---
 
@@ -303,7 +303,7 @@
 
 - 加入成员要求 (Steena)：向 Direa 展示 Tear of Hate 即可获得 「Dragon Emblem」。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240965309175/3810290731749AD9896AFFCFBB3945A6A4B918FD/)](https://images.steamusercontent.com/ugc/1854928240965309175/3810290731749AD9896AFFCFBB3945A6A4B918FD/)
+[![截图](./assets/steam-165.webp)](./assets/steam-165.webp)
 
 ## Home World 07
 
@@ -314,7 +314,7 @@
 - 加入成员 (Steena)：向 Steena 小屋外的守卫展示 Dragon Emblem，进入后在简短对话后她会加入。
 注意：如果你愿意，现在就可以去获取她的 7 级 Tech，否则你可以等到「Home World 08」章节访问 Isle of the Damned 时再拿。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240965316035/7E633344C14D04380F918550F0F466F1BBF5A166/)](https://images.steamusercontent.com/ugc/1854928240965316035/7E633344C14D04380F918550F0F466F1BBF5A166/)
+[![截图](./assets/steam-166.webp)](./assets/steam-166.webp)
 
 ---
 
@@ -332,6 +332,6 @@
 
 另外，既然我们在这里：是的，带上 Dragon Tear 本可以让塔自动开启路径，所以我让你再次解谜只是为了让 Draggy 获得额外的 Star 属性。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960357509980/E161CC17FAD7624C13D58C93C01EC98E3F030F10/)](https://images.steamusercontent.com/ugc/1854928960357509980/E161CC17FAD7624C13D58C93C01EC98E3F030F10/)
+[![截图](./assets/steam-167.webp)](./assets/steam-167.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240965375838/F69ED9B4C8D8CBB45F3551DD946E9F2C5E9A98AD/)](https://images.steamusercontent.com/ugc/1854928240965375838/F69ED9B4C8D8CBB45F3551DD946E9F2C5E9A98AD/)
+[![截图](./assets/steam-168.webp)](./assets/steam-168.webp)

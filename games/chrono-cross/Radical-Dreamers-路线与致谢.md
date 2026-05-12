@@ -4,7 +4,7 @@
 
 无论地图差异如何，我提供了两个选项。我也不知道为什么最后做了两个。
 
-[![截图](https://images.steamusercontent.com/ugc/1854929388673454149/0299D7759BBA38B3B3632EA8D01F7DFC5C5F27BC/)](https://images.steamusercontent.com/ugc/1854929388673454149/0299D7759BBA38B3B3632EA8D01F7DFC5C5F27BC/)
+[![截图](./assets/steam-001.webp)](./assets/steam-001.webp)
 
 ### Choices
 
@@ -76,7 +76,7 @@ Cave | `I challenged Lynx!`<br>`Don't worry about me!`<br>`I tried to protect Ki
 
 既然我们已经完成了 `Chrono Cross` 和 `Radical Dreamers`，是时候从游戏启动菜单观看演职员表了。
 
-[![截图](https://images.steamusercontent.com/ugc/1854929388673494811/EEAB59E4442291E443BA9AC8E090F1B04C9DE424/)](https://images.steamusercontent.com/ugc/1854929388673494811/EEAB59E4442291E443BA9AC8E090F1B04C9DE424/)
+[![截图](./assets/steam-002.webp)](./assets/steam-002.webp)
 
 演职员表播放完毕且音乐停止后，你会看到一段简短的先导预告。希望它能有所作为，不像 `Final Fantasy X-3` 的那个。
 
@@ -84,4 +84,4 @@ Cave | `I challenged Lynx!`<br>`Don't worry about me!`<br>`I tried to protect Ki
 
 希望本攻略对你有所帮助。现在去催促 Square Enix，直到他们也给 `Parasite Eve` 出一个像这样的重制版 :)
 
-[![截图](https://images.steamusercontent.com/ugc/1854929388673496584/6FA72D1D609536BFDC530753C617D8449DE4599F/)](https://images.steamusercontent.com/ugc/1854929388673496584/6FA72D1D609536BFDC530753C617D8449DE4599F/)
+[![截图](./assets/steam-003.webp)](./assets/steam-003.webp)

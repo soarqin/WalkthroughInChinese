@@ -13,9 +13,9 @@
 - **Ending 3: The Magical Dreamers**
   在 New Game+ 中，招募 Nikki 和 Razzly 后，在完成 Another World 的 Fort Dragonia 之前击败 Time Devourer。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956341242/D5699230362F01F26EFCF8E4BF9F70D510FC2601/)](https://images.steamusercontent.com/ugc/1854928240956341242/D5699230362F01F26EFCF8E4BF9F70D510FC2601/)
+[![截图](./assets/steam-054.webp)](./assets/steam-054.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956341500/8AF7FB29E48B4FB33D62B14DC8F2C9DC0548D95B/)](https://images.steamusercontent.com/ugc/1854928240956341500/8AF7FB29E48B4FB33D62B14DC8F2C9DC0548D95B/)
+[![截图](./assets/steam-055.webp)](./assets/steam-055.webp)
 
 ## Another World 02
 
@@ -31,9 +31,9 @@
 - **Ending 4: The Shop Staff and the Three Unlikely Heroes**
   在 New Game+ 中，在 Branch 3 期间 Kid 康复前击败 Time Devourer。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960353549325/5C4A7608381406774FF8F4BF3059545C61B92D3E/)](https://images.steamusercontent.com/ugc/1854928960353549325/5C4A7608381406774FF8F4BF3059545C61B92D3E/)
+[![截图](./assets/steam-056.webp)](./assets/steam-056.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960353549789/C293C9E231BA466636FB3C6AD44859036784D97A/)](https://images.steamusercontent.com/ugc/1854928960353549789/C293C9E231BA466636FB3C6AD44859036784D97A/)
+[![截图](./assets/steam-057.webp)](./assets/steam-057.webp)
 
 ---
 
@@ -45,13 +45,13 @@
 
 - **支线同伴 (Kid)**：抓获 Mel 并找回 Element 后，Kid 会直接加入队伍，没有正式的招募提示。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956423515/F1628D4113B797BBB2D7B338E164EA843BAC8B59/)](https://images.steamusercontent.com/ugc/1854928240956423515/F1628D4113B797BBB2D7B338E164EA843BAC8B59/)
+[![截图](./assets/steam-058.webp)](./assets/steam-058.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956423817/65BCB6A2238F80317E46F0BBBED6A1ACBF55AD68/)](https://images.steamusercontent.com/ugc/1854928240956423817/65BCB6A2238F80317E46F0BBBED6A1ACBF55AD68/)
+[![截图](./assets/steam-059.webp)](./assets/steam-059.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956424248/9D41F9BDF979DD75CBB97FD6BDCC170B82651348/)](https://images.steamusercontent.com/ugc/1854928240956424248/9D41F9BDF979DD75CBB97FD6BDCC170B82651348/)
+[![截图](./assets/steam-060.webp)](./assets/steam-060.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956424823/3D5CF1ED35CA882FA876E7F89FFF2AE1913DE274/)](https://images.steamusercontent.com/ugc/1854928240956424823/3D5CF1ED35CA882FA876E7F89FFF2AE1913DE274/)
+[![截图](./assets/steam-061.webp)](./assets/steam-061.webp)
 
 ---
 
@@ -63,13 +63,13 @@
 
 - **道具要求 (@Rainbow Shell)**：告诉吉拿棒商贩 100G 太贵，建议 60G。他接受后，回到雕像右侧的房子，你会看到建议带来的回报。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956477028/3403F1F5147682AFECD32D4360FB5CC645EBE434/)](https://images.steamusercontent.com/ugc/1854928240956477028/3403F1F5147682AFECD32D4360FB5CC645EBE434/)
+[![截图](./assets/steam-062.webp)](./assets/steam-062.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960353600356/781954342CF6FE8EE126CC50205F1A7EBBE8121E/)](https://images.steamusercontent.com/ugc/1854928960353600356/781954342CF6FE8EE126CC50205F1A7EBBE8121E/)
+[![截图](./assets/steam-063.webp)](./assets/steam-063.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960353637110/3A068E70EC6E173EEA22146E81636AADCA713FAD/)](https://images.steamusercontent.com/ugc/1854928960353637110/3A068E70EC6E173EEA22146E81636AADCA713FAD/)
+[![截图](./assets/steam-064.webp)](./assets/steam-064.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960353637656/01552487DF4823896CE2A1EC4CB0886A217B9E62/)](https://images.steamusercontent.com/ugc/1854928960353637656/01552487DF4823896CE2A1EC4CB0886A217B9E62/)
+[![截图](./assets/steam-065.webp)](./assets/steam-065.webp)
 
 ---
 
@@ -80,7 +80,7 @@
 - **可选 Boss**：到达后会与 Harle 进行一场快速战斗。
   注意：务必从她身上获得 MoonGlasses，作为稀有掉落或稀有偷窃物品。
 
-[![截图](https://images.steamusercontent.com/ugc/1854929388673564650/4B4BD5306D6600934E6E6CC1F39821EEE081DFB9/)](https://images.steamusercontent.com/ugc/1854929388673564650/4B4BD5306D6600934E6E6CC1F39821EEE081DFB9/)
+[![截图](./assets/steam-066.webp)](./assets/steam-066.webp)
 
 ---
 
@@ -94,11 +94,11 @@
 
 - **额外内容**：如果你在 Termina 让 Korcha 游回家，需要去他家正式招募。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956506968/01719D83919EE0221E76749B6B3F32B4301F3BF4/)](https://images.steamusercontent.com/ugc/1854928240956506968/01719D83919EE0221E76749B6B3F32B4301F3BF4/)
+[![截图](./assets/steam-067.webp)](./assets/steam-067.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956507404/5BDA9473A8F5BF888606149B3CD7589610116048/)](https://images.steamusercontent.com/ugc/1854928240956507404/5BDA9473A8F5BF888606149B3CD7589610116048/)
+[![截图](./assets/steam-068.webp)](./assets/steam-068.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956519744/7C2D5D33C77A81C5E43F309019BB1D1A28F51005/)](https://images.steamusercontent.com/ugc/1854928240956519744/7C2D5D33C77A81C5E43F309019BB1D1A28F51005/)
+[![截图](./assets/steam-069.webp)](./assets/steam-069.webp)
 
 ---
 
@@ -108,9 +108,9 @@
 
 - **要求 (Skelly)**：与岛上第一个区域右上角的男人交谈，他会免费赠送 Sturdy Ribs。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956569692/6C210C07E8268DB131CDC627CDD10100433AA0ED/)](https://images.steamusercontent.com/ugc/1854928240956569692/6C210C07E8268DB131CDC627CDD10100433AA0ED/)
+[![截图](./assets/steam-070.webp)](./assets/steam-070.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956570042/E48E84F7EB7982222C6981D6585BD5F3A29D112C/)](https://images.steamusercontent.com/ugc/1854928240956570042/E48E84F7EB7982222C6981D6585BD5F3A29D112C/)
+[![截图](./assets/steam-071.webp)](./assets/steam-071.webp)
 
 ---
 
@@ -120,9 +120,9 @@
 
 - **要求 (Skelly)**：从岛上第一个区域左上角的洞中取得 Mixed Bones。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956570258/717BB46FA02DA80484AD391B48D7B3BB99EE6706/)](https://images.steamusercontent.com/ugc/1854928240956570258/717BB46FA02DA80484AD391B48D7B3BB99EE6706/)
+[![截图](./assets/steam-072.webp)](./assets/steam-072.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956570592/05B9FEB2F5761232231E4C4B312EFE4F15C98BF5/)](https://images.steamusercontent.com/ugc/1854928240956570592/05B9FEB2F5761232231E4C4B312EFE4F15C98BF5/)
+[![截图](./assets/steam-073.webp)](./assets/steam-073.webp)
 
 ---
 
@@ -132,9 +132,9 @@
 
 - **同伴 (Skelly)**：进入 Termina 顶部雕像右侧的房子，与穿粉色衣服的女士交谈让 Skelly 与祖母团聚。离开房间再重新进入，邀请 Skelly 加入。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956570848/1EC8362C53D052E51B8B7315E07549CCB49BA92D/)](https://images.steamusercontent.com/ugc/1854928240956570848/1EC8362C53D052E51B8B7315E07549CCB49BA92D/)
+[![截图](./assets/steam-074.webp)](./assets/steam-074.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956571128/5A03CC859E6EC1E0E8D18A6FFCEA365DDEA6E461/)](https://images.steamusercontent.com/ugc/1854928240956571128/5A03CC859E6EC1E0E8D18A6FFCEA365DDEA6E461/)
+[![截图](./assets/steam-075.webp)](./assets/steam-075.webp)
 
 ---
 
@@ -142,15 +142,15 @@
 
 可用时间：获得船后，驶入迷雾。
 
-- **同伴 (Pip)**：拿到 Key 后不久会发现这个小家伙，追逐几次后它会决定加入。
+- **同伴 (Pip)**：拿到 Key 后不久会发现这个像宝可梦一样的小家伙，追逐几次后它会决定加入。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956820218/FCCBD177EEEC05067DE13E3B3816994163868705/)](https://images.steamusercontent.com/ugc/1854928240956820218/FCCBD177EEEC05067DE13E3B3816994163868705/)
+[![截图](./assets/steam-076.webp)](./assets/steam-076.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956820223/0D84CFD0A65858AA89FDBFA60AA394201EF98A24/)](https://images.steamusercontent.com/ugc/1854928240956820223/0D84CFD0A65858AA89FDBFA60AA394201EF98A24/)
+[![截图](./assets/steam-077.webp)](./assets/steam-077.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956820231/3BBB24B634DEE5B4F75CAA322E27E05635C465A6/)](https://images.steamusercontent.com/ugc/1854928240956820231/3BBB24B634DEE5B4F75CAA322E27E05635C465A6/)
+[![截图](./assets/steam-078.webp)](./assets/steam-078.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240956820236/AE12D936F19E18EB7056D014737B98A9048EC968/)](https://images.steamusercontent.com/ugc/1854928240956820236/AE12D936F19E18EB7056D014737B98A9048EC968/)
+[![截图](./assets/steam-079.webp)](./assets/steam-079.webp)
 
 ---
 
@@ -166,9 +166,9 @@
   在 New Game+ 中，在 Branch 3 期间 Kid 康复前击败 Time Devourer。
   注意：我在 Branch 3 拒绝救 Kid 后，等她自行康复不久就达成了这个结局。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960347841184/3718D5AEC498375943A29117CABFEB247F3FE063/)](https://images.steamusercontent.com/ugc/1854928960347841184/3718D5AEC498375943A29117CABFEB247F3FE063/)
+[![截图](./assets/steam-080.webp)](./assets/steam-080.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960347841544/6FD389C32A33CF0FB592334FDF16F232A376AC27/)](https://images.steamusercontent.com/ugc/1854928960347841544/6FD389C32A33CF0FB592334FDF16F232A376AC27/)
+[![截图](./assets/steam-081.webp)](./assets/steam-081.webp)
 
 ## Home World 03
 
@@ -178,9 +178,9 @@
 
 - **支线技能要求 (Razzly)**：不要带 Razzly。尽可能多地与矮人战斗以消耗时间。击败 Boss 后确保 Rosetta 死亡。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240957008041/2C67159DD4B65A93D35BB88A1966CCE04564D2B2/)](https://images.steamusercontent.com/ugc/1854928240957008041/2C67159DD4B65A93D35BB88A1966CCE04564D2B2/)
+[![截图](./assets/steam-082.webp)](./assets/steam-082.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240957008032/6A22A696FE782FC1C823E1CA7E15DBFBAB8D344F/)](https://images.steamusercontent.com/ugc/1854928240957008032/6A22A696FE782FC1C823E1CA7E15DBFBAB8D344F/)
+[![截图](./assets/steam-083.webp)](./assets/steam-083.webp)
 
 ## Another World 03
 
@@ -190,9 +190,9 @@
 
 - **要求 (Turnip)**：在提示地面发烫的小块灰色土地上使用 Ice Breath。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240957038661/625963A1C1A8CDFF1D09BEC43F6E7B16A0067CB2/)](https://images.steamusercontent.com/ugc/1854928240957038661/625963A1C1A8CDFF1D09BEC43F6E7B16A0067CB2/)
+[![截图](./assets/steam-084.webp)](./assets/steam-084.webp)
 
-## 临界点：Fort Dragonia
+## Point of no return: Fort Dragonia
 
 完成 Fort Dragonia 的事件后，部分区域和所有同伴将暂时无法使用。
 
@@ -221,7 +221,7 @@
   龙像会把你掉落在你选择的方向。
   向南掉落。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240958228734/507FEEC220C3D25D5FBD195D8917C4E93908EDD3/)](https://images.steamusercontent.com/ugc/1854928240958228734/507FEEC220C3D25D5FBD195D8917C4E93908EDD3/)
+[![截图](./assets/steam-085.webp)](./assets/steam-085.webp)
 
 ## Temporal Vortex
 
@@ -233,13 +233,13 @@
 
 - **道具 (Revive)**：离开前务必拿走。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240958193367/BEA720BC29EB25FD64D4617B198B6D2D09038E18/)](https://images.steamusercontent.com/ugc/1854928240958193367/BEA720BC29EB25FD64D4617B198B6D2D09038E18/)
+[![截图](./assets/steam-086.webp)](./assets/steam-086.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240958193378/2E10C94759EB9C9E01AB89870A92742D2DEA1CD4/)](https://images.steamusercontent.com/ugc/1854928240958193378/2E10C94759EB9C9E01AB89870A92742D2DEA1CD4/)
+[![截图](./assets/steam-087.webp)](./assets/steam-087.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240958193387/6C3533772CD032B5732D55DE1B62BC286509FBDC/)](https://images.steamusercontent.com/ugc/1854928240958193387/6C3533772CD032B5732D55DE1B62BC286509FBDC/)
+[![截图](./assets/steam-088.webp)](./assets/steam-088.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240958193362/A43EE8BF4E0572A808EC186EFD4EB47099C1E3E9/)](https://images.steamusercontent.com/ugc/1854928240958193362/A43EE8BF4E0572A808EC186EFD4EB47099C1E3E9/)
+[![截图](./assets/steam-089.webp)](./assets/steam-089.webp)
 
 ## Home World 04 | Part 01
 
@@ -252,7 +252,7 @@
 
 - **同伴 (Radius)**：与母亲交谈并在战斗中击败 Radius。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240958218598/8139ED9BE524F629A28FB95A58A16BF18E28BD24/)](https://images.steamusercontent.com/ugc/1854928240958218598/8139ED9BE524F629A28FB95A58A16BF18E28BD24/)
+[![截图](./assets/steam-090.webp)](./assets/steam-090.webp)
 
 ---
 
@@ -262,7 +262,7 @@
 
 - **Frame (Infrared Vision)**：在 Another World 中 Skelly 头部所在的大头骨左侧打开宝箱。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960355808322/7F2AE474BCE4A38E9720524FA864C1DBE0AEB155/)](https://images.steamusercontent.com/ugc/1854928960355808322/7F2AE474BCE4A38E9720524FA864C1DBE0AEB155/)
+[![截图](./assets/steam-091.webp)](./assets/steam-091.webp)
 
 ---
 
@@ -274,15 +274,15 @@
 
 - **同伴 (Van)**：去铁匠铺北边的房子，先和 Van 的父亲交谈，再和 Van 交谈雇佣他。对话后告诉那位女士你是认真的。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240959740742/CCCE4D97C0895DAD34976272DBD30DC17151DB35/)](https://images.steamusercontent.com/ugc/1854928240959740742/CCCE4D97C0895DAD34976272DBD30DC17151DB35/)
+[![截图](./assets/steam-092.webp)](./assets/steam-092.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240959740750/7113841D0BFD92882E2F1A82430DC53CCFCDD807/)](https://images.steamusercontent.com/ugc/1854928240959740750/7113841D0BFD92882E2F1A82430DC53CCFCDD807/)
+[![截图](./assets/steam-093.webp)](./assets/steam-093.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240959740760/8204F6FBC0D80766BAC6FE09A86005B9A2E0455C/)](https://images.steamusercontent.com/ugc/1854928240959740760/8204F6FBC0D80766BAC6FE09A86005B9A2E0455C/)
+[![截图](./assets/steam-094.webp)](./assets/steam-094.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240959740781/CA167BBFA46F136F30508610C4041A1473BE247A/)](https://images.steamusercontent.com/ugc/1854928240959740781/CA167BBFA46F136F30508610C4041A1473BE247A/)
+[![截图](./assets/steam-095.webp)](./assets/steam-095.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240959740793/7A01EC12D629C3AD3A45ED81C215A31F4ED4D881/)](https://images.steamusercontent.com/ugc/1854928240959740793/7A01EC12D629C3AD3A45ED81C215A31F4ED4D881/)
+[![截图](./assets/steam-096.webp)](./assets/steam-096.webp)
 
 ---
 
@@ -297,17 +297,17 @@
   - 如果没推过巨石：小孩会在一个攻击他父亲的 Wraith 旁边，杀掉它。
   无论哪种路径，最后都会得到 Mushroom。从这里继续向下走，最终到达 Shadow Forest。前往曾有 Skelly 碎片的瀑布洞穴，同意用 Mushroom 交换那个男人的宝藏。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240959867947/58B3FCC232BD7670FB5FE40E5FE844547EE3296B/)](https://images.steamusercontent.com/ugc/1854928240959867947/58B3FCC232BD7670FB5FE40E5FE844547EE3296B/)
+[![截图](./assets/steam-097.webp)](./assets/steam-097.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240959868266/4A1B21BCE55D9FEE7A43B34979B6B576AF8CF55B/)](https://images.steamusercontent.com/ugc/1854928240959868266/4A1B21BCE55D9FEE7A43B34979B6B576AF8CF55B/)
+[![截图](./assets/steam-098.webp)](./assets/steam-098.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960355920893/703026DC95302FF5AE929BC41A13E16CFC60719B/)](https://images.steamusercontent.com/ugc/1854928960355920893/703026DC95302FF5AE929BC41A13E16CFC60719B/)
+[![截图](./assets/steam-099.webp)](./assets/steam-099.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240959942237/06449613F5F68AC00D9184538CFA20D5D8710E07/)](https://images.steamusercontent.com/ugc/1854928240959942237/06449613F5F68AC00D9184538CFA20D5D8710E07/)
+[![截图](./assets/steam-100.webp)](./assets/steam-100.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240959942243/D26B357EDB70627434FF34EFE6276DE1C58CB34F/)](https://images.steamusercontent.com/ugc/1854928240959942243/D26B357EDB70627434FF34EFE6276DE1C58CB34F/)
+[![截图](./assets/steam-101.webp)](./assets/steam-101.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240959942253/C8A41B101EA9DF4B91FA4D90A1DC3BDD4001C1D7/)](https://images.steamusercontent.com/ugc/1854928240959942253/C8A41B101EA9DF4B91FA4D90A1DC3BDD4001C1D7/)
+[![截图](./assets/steam-102.webp)](./assets/steam-102.webp)
 
 ---
 
@@ -318,9 +318,9 @@
 - **同伴 (Draggy)**：再次激活四根柱子打开通往电梯的路。乘电梯下去，将 Big Egg 放入孵化器。同意帮 Draggy 寻找父母。
   注意：如果需要解谜方案，请参考「临界点：Fort Dragonia」部分。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960295393/8F711FA709140709339474E3FFD88889D7CDB77F/)](https://images.steamusercontent.com/ugc/1854928240960295393/8F711FA709140709339474E3FFD88889D7CDB77F/)
+[![截图](./assets/steam-103.webp)](./assets/steam-103.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960295402/B7C5633A33ED84B723E5FB2861A4E1A102C06B23/)](https://images.steamusercontent.com/ugc/1854928240960295402/B7C5633A33ED84B723E5FB2861A4E1A102C06B23/)
+[![截图](./assets/steam-104.webp)](./assets/steam-104.webp)
 
 ---
 
@@ -330,9 +330,9 @@
 
 - **要求 (Starky)**：去画面北部的楼下，打开中间装有 Star Fragment 的宝箱。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960295474/EABBC596EF9058FAB8FC0B251EDC585FD946968C/)](https://images.steamusercontent.com/ugc/1854928240960295474/EABBC596EF9058FAB8FC0B251EDC585FD946968C/)
+[![截图](./assets/steam-105.webp)](./assets/steam-105.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960295482/07B419B5935B082245BCD1B0993445EC971C6CDA/)](https://images.steamusercontent.com/ugc/1854928240960295482/07B419B5935B082245BCD1B0993445EC971C6CDA/)
+[![截图](./assets/steam-106.webp)](./assets/steam-106.webp)
 
 ---
 
@@ -344,11 +344,11 @@
 
 - **Frame (Our Favorite Martian)**：重新进入击败 Mega-Starky 的区域，与左侧的人交谈获得。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960295493/A920ED934D262C8F1F474C3C7A5175206F397912/)](https://images.steamusercontent.com/ugc/1854928240960295493/A920ED934D262C8F1F474C3C7A5175206F397912/)
+[![截图](./assets/steam-107.webp)](./assets/steam-107.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960295500/E291E7DB3D69D563F71BE563ECD3666597BE5E22/)](https://images.steamusercontent.com/ugc/1854928240960295500/E291E7DB3D69D563F71BE563ECD3666597BE5E22/)
+[![截图](./assets/steam-108.webp)](./assets/steam-108.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960355914627/8B9CAD96A71B611A3A2615D39FCE667652F4A55F/)](https://images.steamusercontent.com/ugc/1854928960355914627/8B9CAD96A71B611A3A2615D39FCE667652F4A55F/)
+[![截图](./assets/steam-109.webp)](./assets/steam-109.webp)
 
 ---
 
@@ -358,9 +358,9 @@
 
 - **要求 (Irenes)**：与 The Great Explorer Toma 交谈。在进入 Marbule 后的第一间房子睡觉。听到声音时选择「Check it out」，靠近小桥上的生物。离开 Marbule 时，Irenes 会和你谈论 S.S. Zelbess。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960295410/0454F1FD1AFD23B1FFF311855DCFC24BB8A53675/)](https://images.steamusercontent.com/ugc/1854928240960295410/0454F1FD1AFD23B1FFF311855DCFC24BB8A53675/)
+[![截图](./assets/steam-110.webp)](./assets/steam-110.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960295420/46D72B1906B71B81A1C9E8ADABCCCD718F95128A/)](https://images.steamusercontent.com/ugc/1854928240960295420/46D72B1906B71B81A1C9E8ADABCCCD718F95128A/)
+[![截图](./assets/steam-111.webp)](./assets/steam-111.webp)
 
 ---
 
@@ -370,9 +370,9 @@
 
 - **要求 (Irenes)**：找到船长室，观看 Irenes 和 Fargo 谈论往事。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960295427/95CC434047AB718EAF43008C8FFE1CD66FBE9032/)](https://images.steamusercontent.com/ugc/1854928240960295427/95CC434047AB718EAF43008C8FFE1CD66FBE9032/)
+[![截图](./assets/steam-112.webp)](./assets/steam-112.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960295467/9A85E2F84BC9D814DB0A41FC370B0C67B4588005/)](https://images.steamusercontent.com/ugc/1854928240960295467/9A85E2F84BC9D814DB0A41FC370B0C67B4588005/)
+[![截图](./assets/steam-113.webp)](./assets/steam-113.webp)
 
 ## Home World 04 | Part 02
 
@@ -398,21 +398,21 @@
 
 - **同伴 (Irenes)**：Nikki 邀请你上船后，登上 Magical Dreamers 并同意帮 Nikki 解放 Marbule。众人离开后接受 Irenes 的帮助。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960662404/3B86E176D3A2B2931AFAABA0FBF902031E61A81B/)](https://images.steamusercontent.com/ugc/1854928240960662404/3B86E176D3A2B2931AFAABA0FBF902031E61A81B/)
+[![截图](./assets/steam-114.webp)](./assets/steam-114.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960662425/61EBC7EC699D242330CB3A6CB5054A7EDA9D419C/)](https://images.steamusercontent.com/ugc/1854928240960662425/61EBC7EC699D242330CB3A6CB5054A7EDA9D419C/)
+[![截图](./assets/steam-115.webp)](./assets/steam-115.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960662430/4B7EA2264FD895C3009555BDBC4F18B4575E1CBB/)](https://images.steamusercontent.com/ugc/1854928240960662430/4B7EA2264FD895C3009555BDBC4F18B4575E1CBB/)
+[![截图](./assets/steam-116.webp)](./assets/steam-116.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960662439/DEBF3B5431D0A6ADE41671E04B0AF8D7ACEF05A6/)](https://images.steamusercontent.com/ugc/1854928240960662439/DEBF3B5431D0A6ADE41671E04B0AF8D7ACEF05A6/)
+[![截图](./assets/steam-117.webp)](./assets/steam-117.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960662447/E8BD08B98F7C99EFD7698681377F6B7CB688CD3A/)](https://images.steamusercontent.com/ugc/1854928240960662447/E8BD08B98F7C99EFD7698681377F6B7CB688CD3A/)
+[![截图](./assets/steam-118.webp)](./assets/steam-118.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960662454/6AED685CFBDEC47F1B83EE08EB4AD08ECCA3291D/)](https://images.steamusercontent.com/ugc/1854928240960662454/6AED685CFBDEC47F1B83EE08EB4AD08ECCA3291D/)
+[![截图](./assets/steam-119.webp)](./assets/steam-119.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960662457/95AE84EADFF78C07FC746C3AEEF0BE2A64229A2F/)](https://images.steamusercontent.com/ugc/1854928240960662457/95AE84EADFF78C07FC746C3AEEF0BE2A64229A2F/)
+[![截图](./assets/steam-120.webp)](./assets/steam-120.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960662464/3A59AC23C15213D22B12583D6059FB27A69CCF94/)](https://images.steamusercontent.com/ugc/1854928240960662464/3A59AC23C15213D22B12583D6059FB27A69CCF94/)
+[![截图](./assets/steam-121.webp)](./assets/steam-121.webp)
 
 ---
 
@@ -422,9 +422,9 @@
 
 - **技能 (Janice)**：队伍中有 Janice 时，与路灯下的生物交谈获得 What's Up Doc?。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960744311/4C13E12633DF4EC1C038520BA6DCB3D32588488C/)](https://images.steamusercontent.com/ugc/1854928240960744311/4C13E12633DF4EC1C038520BA6DCB3D32588488C/)
+[![截图](./assets/steam-122.webp)](./assets/steam-122.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928240960744744/F991D04059C684E3FF56398E235D2B52A3482EE5/)](https://images.steamusercontent.com/ugc/1854928240960744744/F991D04059C684E3FF56398E235D2B52A3482EE5/)
+[![截图](./assets/steam-123.webp)](./assets/steam-123.webp)
 
 ---
 
@@ -436,8 +436,8 @@
 
 - **装备要求 (Pierre)**：在舞台上拿走 Prop Sword。
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960356172211/832D2AE0ABB6491B449848228EFF9D83E826777E/)](https://images.steamusercontent.com/ugc/1854928960356172211/832D2AE0ABB6491B449848228EFF9D83E826777E/)
+[![截图](./assets/steam-124.webp)](./assets/steam-124.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960356172878/959E1FA182F83E4C4425F4A540C1F4F0B817DF55/)](https://images.steamusercontent.com/ugc/1854928960356172878/959E1FA182F83E4C4425F4A540C1F4F0B817DF55/)
+[![截图](./assets/steam-125.webp)](./assets/steam-125.webp)
 
-[![截图](https://images.steamusercontent.com/ugc/1854928960356182243/6D50F9F154A2F83209C943DA64460553AAE12745/)](https://images.steamusercontent.com/ugc/1854928960356182243/6D50F9F154A2F83209C943DA64460553AAE12745/)
+[![截图](./assets/steam-126.webp)](./assets/steam-126.webp)
