@@ -104,7 +104,7 @@ export default defineConfig({
       }
     },
     editLink: {
-      pattern: 'https://github.com/soarqin/WalkthroughInChinese/edit/main/:path',
+      pattern: 'https://github.com/soarqin/WalkthroughInChinese/edit/master/:path',
       text: '编辑此页'
     },
     docFooter: {
