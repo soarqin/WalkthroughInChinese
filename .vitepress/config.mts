@@ -24,6 +24,7 @@ export default defineConfig({
             { text: '流程 02：Fort Dragonia 前后', link: '/games/chrono-cross/流程-02-Fort-Dragonia-前后' },
             { text: '流程 03：Dragon\'s Blessing 与终盘准备', link: '/games/chrono-cross/流程-03-Dragon-Blessing-与终盘准备' },
             { text: '流程 04：终盘成就与额外系统', link: '/games/chrono-cross/流程-04-终盘成就与额外系统' },
+            { text: '快速全成就路线', link: '/games/chrono-cross/快速全成就路线' },
             { text: 'Radical Dreamers 路线', link: '/games/chrono-cross/Radical-Dreamers-路线与致谢' }
           ]
         }

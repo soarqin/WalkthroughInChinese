@@ -1,6 +1,6 @@
 # CHRONO CROSS: THE RADICAL DREAMERS EDITION 完成攻略
 
-本攻略整理自 Steam Community Guide「Chrono Cross Completion」，面向 `CHRONO CROSS: THE RADICAL DREAMERS EDITION`。内容覆盖 `Chrono Cross` 的角色招募、`Level 7 Tech`、`Frame`、结局、`Rainbow Shell`、可选成就、可选 Boss，以及 `Radical Dreamers` 的路线和地图提示。
+本攻略整理自 Steam Community Guide「Chrono Cross Completion」，面向 `CHRONO CROSS: THE RADICAL DREAMERS EDITION`。内容覆盖 `Chrono Cross` 的角色招募、`Level 7 Tech`、`Frame`、结局、`Rainbow Shell`、可选成就、可选 Boss，以及 `Radical Dreamers` 的路线和地图提示。快速全成就路线另参考 `~/quick-trophies.md` 整理。
 
 由于本作没有官方中文版，攻略中所有游戏内英文名词均保留原文，包括角色名、地名、道具名、`Frame`、`Tech`、结局名、菜单选项和世界名。
 
@@ -17,7 +17,8 @@
 2. [流程 02：Fort Dragonia 前后](./流程-02-Fort-Dragonia-前后.md)：`Home World 02` 到 `Home World 04 | Part 02`，含 `Temporal Vortex`。
 3. [流程 03：Dragon's Blessing 与终盘准备](./流程-03-Dragon-Blessing-与终盘准备.md)：`Another World 04` 到 `Home World 07`，含 `Dragon's Blessing`。
 4. [流程 04：终盘成就与额外系统](./流程-04-终盘成就与额外系统.md)：终盘收集、`Achievements`、`Endings`、小游戏、`Rainbow Gear`、`Chrono Cross` 与 `Radical Dreamers Map`。
-5. [Radical Dreamers：路线与致谢](./Radical-Dreamers-路线与致谢.md)：`Radical Dreamers Route`、启动菜单 `Credits` 与原作者致谢。
+5. [快速白金 / 全成就路线](./快速全成就路线.md)：关键存档点、结局回收、角色记录、`Level 7 Tech` 与小游戏成就。
+6. [Radical Dreamers：路线与致谢](./Radical-Dreamers-路线与致谢.md)：`Radical Dreamers Route`、启动菜单 `Credits` 与原作者致谢。
 
 ## 周目建议
 
@@ -28,7 +29,9 @@
 ## 资料来源
 
 - Steam Community：Abyss，「Chrono Cross Completion」，https://steamcommunity.com/sharedfiles/filedetails/?id=2790878131，访问日期：2026-05-12。
+- 本地参考：`~/quick-trophies.md`，用于快速全成就路线整理。
 
 ## 更新记录
 
 - 2026-05-12：创建 `Chrono Cross Completion` 中文攻略分页，保留原文图片链接和游戏内英文名词。
+- 2026-05-12：将 Steam 图片下载到本地 `assets/`，新增快速白金 / 全成就路线，并校对补充译文错漏。

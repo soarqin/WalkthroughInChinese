@@ -6,7 +6,7 @@
 
 ### CHRONO CROSS: THE RADICAL DREAMERS EDITION
 
-- 攻略范围：角色招募、Level 7 Tech、Frame、结局、Rainbow Shell、可选成就、可选 Boss、Radical Dreamers 路线
+- 攻略范围：角色招募、Level 7 Tech、Frame、结局、Rainbow Shell、可选成就、可选 Boss、快速全成就路线、Radical Dreamers 路线
 - 适用版本：Steam 版 CHRONO CROSS: THE RADICAL DREAMERS EDITION；其他平台同版内容可参考
 - 更新时间：2026-05-12
 - 入口：[阅读攻略](./chrono-cross/README.md)
