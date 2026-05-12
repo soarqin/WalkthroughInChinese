@@ -41,7 +41,7 @@ Cloudflare Pages 是 Cloudflare 提供的静态网站托管服务。开通流程
 
 | 字段 | 值 |
 |---|---|
-| Production branch | `main` |
+| Production branch | `master` |
 | Framework preset | `VitePress` |
 | Build command | `npm run docs:build` |
 | Build output directory | `.vitepress/dist` |
@@ -66,7 +66,7 @@ Cloudflare Pages 默认的 Node.js 版本可能较低，且不会自动读取项
 1. 部署完成后，进入项目设置：Project → Settings → Builds & deployments。
 2. 找到「Preview branch control」部分。
 3. 点击「Configure preview deployments」。
-4. 推荐选择「Only the production branch」，即仅对 `main` 分支进行部署。
+4. 推荐选择「Only the production branch」，即仅对 `master` 分支进行部署。
 
 ## 8. 首次部署
 
