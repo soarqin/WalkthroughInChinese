@@ -1,12 +1,18 @@
 import { defineConfig } from 'vitepress'
 
+declare const process: { env: { DEPLOY_TARGET?: string } }
+
+const isGitHubPages = process.env.DEPLOY_TARGET === 'github'
+const base = isGitHubPages ? '/WalkthroughInChinese/' : '/'
+
 export default defineConfig({
   lang: 'zh-CN',
+  base: base,
   title: '中文游戏攻略合集',
   description: '按游戏归档的中文 Markdown 攻略合集',
   cleanUrls: true,
   lastUpdated: true,
-  head: [['link', { rel: 'icon', type: 'image/svg+xml', href: '/logo.svg' }]],
+  head: [['link', { rel: 'icon', type: 'image/svg+xml', href: `${base}logo.svg` }]],
   themeConfig: {
     logo: '/logo.svg',
     nav: [
@@ -98,7 +104,7 @@ export default defineConfig({
       }
     },
     editLink: {
-      pattern: '',
+      pattern: 'https://github.com/soarqin/WalkthroughInChinese/edit/main/:path',
       text: '编辑此页'
     },
     docFooter: {
