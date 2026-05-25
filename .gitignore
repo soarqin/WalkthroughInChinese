@@ -28,3 +28,7 @@ temp/
 .env
 .env.*
 !.env.example
+
+# Agent专用目录
+/.sisyphus/
+/.omo/

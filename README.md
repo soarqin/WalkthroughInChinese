@@ -18,8 +18,9 @@
 安装依赖后启动开发服务器：
 
 ```bash
-npm install
-npm run docs:dev
+pnpm install
+pnpm approve-builds
+pnpm run docs:dev
 ```
 
 默认访问地址为 `http://localhost:5173/`。VitePress 会将根目录下的 Markdown 文件和 `games/` 目录渲染为可浏览的文档站。
@@ -27,7 +28,7 @@ npm run docs:dev
 ## 构建站点
 
 ```bash
-npm run docs:build
+pnpm run docs:build
 ```
 
 构建产物位于 `.vitepress/dist/`。
@@ -36,8 +37,8 @@ npm run docs:build
 
 修改界面、导航或文档结构后，按以下顺序验证：
 
-1. 运行 `npm run docs:build`，确认 VitePress 可以完成静态构建。
-2. 运行 `npm run docs:preview`，启动本地预览服务。
+1. 运行 `pnpm run docs:build`，确认 VitePress 可以完成静态构建。
+2. 运行 `pnpm run docs:preview`，启动本地预览服务。
 3. 使用 `agent-browser` 打开首页、攻略目录页和至少 1 个被修改的 Markdown 页面。
 4. 检查页面标题、导航跳转、本地搜索入口和控制台错误。
 5. 测试结束后关闭 `agent-browser` 会话，并清理本次测试启动的 VitePress dev server、preview server、LSP server 等后台进程。
