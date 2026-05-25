@@ -18,6 +18,13 @@
 - 更新时间：2026-05-09
 - 入口：[阅读攻略](./tales-of-symphonia/)
 
+### Tales of Graces f Remastered（圣恩传说f重制版 / 美德傳奇f重製版）
+
+- 攻略范围：本篇完整流程、通关后内容、「迈向未来的系谱篇」、全成就路线、称号与委托风险点、名词对照表
+- 适用版本：Steam / PS4 / PS5 / Xbox / Switch《Tales of Graces f Remastered》；PS3《Tales of Graces f》可参考同一主线结构
+- 更新时间：2026-05-25
+- 入口：[阅读攻略](./tales-of-graces-f-remastered/)
+
 ## 新增条目格式
 
 ```markdown

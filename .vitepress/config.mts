@@ -56,13 +56,29 @@ export default defineConfig({
           ]
         }
       ],
+      '/games/tales-of-graces-f-remastered/': [
+        {
+          text: 'Tales of Graces f Remastered',
+          items: [
+            { text: '攻略首页', link: '/games/tales-of-graces-f-remastered/' },
+            { text: '流程 01：少年时代与兰特领主篇', link: '/games/tales-of-graces-f-remastered/流程-01-少年时代与兰特领主篇' },
+            { text: '流程 02：夺回兰特与史特拉塔', link: '/games/tales-of-graces-f-remastered/流程-02-夺回兰特与史特拉塔计谋篇' },
+            { text: '流程 03：芬迪尔与佛铎拉', link: '/games/tales-of-graces-f-remastered/流程-03-芬迪尔攻防与佛铎拉篇' },
+            { text: '流程 04：最终决战与通关后', link: '/games/tales-of-graces-f-remastered/流程-04-最终决战与通关后' },
+            { text: '流程 05：迈向未来的系谱篇', link: '/games/tales-of-graces-f-remastered/流程-05-迈向未来的系谱篇' },
+            { text: '全成就', link: '/games/tales-of-graces-f-remastered/全成就' },
+            { text: '名词对照表', link: '/games/tales-of-graces-f-remastered/名词对照表' }
+          ]
+        }
+      ],
       '/games/': [
         {
           text: '攻略目录',
           items: [
             { text: '全部游戏', link: '/games/' },
             { text: 'CHRONO CROSS', link: '/games/chrono-cross/' },
-            { text: 'Tales of Symphonia', link: '/games/tales-of-symphonia/' }
+            { text: 'Tales of Symphonia', link: '/games/tales-of-symphonia/' },
+            { text: 'Tales of Graces f Remastered', link: '/games/tales-of-graces-f-remastered/' }
           ]
         }
       ],
