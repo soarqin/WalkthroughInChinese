@@ -4,8 +4,6 @@
 
 无论地图差异如何，我提供了两个选项。我也不知道为什么最后做了两个。
 
-[![截图](./assets/steam-001.webp)](./assets/steam-001.webp)
-
 ### Choices
 
 请记住，在遭遇战和处理陷阱时，选择时间有限。务必自己做出选择，而不是让游戏替你决定。
@@ -76,12 +74,25 @@ Cave | `I challenged Lynx!`<br>`Don't worry about me!`<br>`I tried to protect Ki
 
 既然我们已经完成了 `Chrono Cross` 和 `Radical Dreamers`，是时候从游戏启动菜单观看演职员表了。
 
-[![截图](./assets/steam-002.webp)](./assets/steam-002.webp)
-
 演职员表播放完毕且音乐停止后，你会看到一段简短的先导预告。希望它能有所作为，不像 `Final Fantasy X-3` 的那个。
 
 ## Thank You
 
 希望本攻略对你有所帮助。现在去催促 Square Enix，直到他们也给 `Parasite Eve` 出一个像这样的重制版 :)
 
-[![截图](./assets/steam-003.webp)](./assets/steam-003.webp)
+
+## 庄园地图
+
+Radical Dreamers 是一款视觉小说，玩家在其中探索一座庄园。本攻略附上庄园地图供参考。
+
+[![截图](./assets/steam-241.webp)](./assets/steam-241.webp)
+
+### 地图疑问
+
+本攻略的一些老读者可能还记得，庄园的一个主要部分被错误地标在了别处。事实并非如此。
+
+左边是来自 Radical Dreamers Edition 的截图，右边是 SNES 原版游戏的粉丝翻译版。如果仔细看，新版本指出通往 Atrium 的楼梯在走廊右侧，而 SNES 版本中楼梯位于左侧。
+
+[![截图](./assets/steam-242.webp)](./assets/steam-242.webp)
+
+[![截图](./assets/steam-243.webp)](./assets/steam-243.webp)
