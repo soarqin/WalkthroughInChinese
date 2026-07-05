@@ -39,9 +39,9 @@ pnpm run docs:build
 
 1. 运行 `pnpm run docs:build`，确认 VitePress 可以完成静态构建。
 2. 运行 `pnpm run docs:preview`，启动本地预览服务。
-3. 使用 `agent-browser` 打开首页、攻略目录页和至少 1 个被修改的 Markdown 页面。
+3. 使用 `playwright-cli` 打开首页、攻略目录页和至少 1 个被修改的 Markdown 页面。
 4. 检查页面标题、导航跳转、本地搜索入口和控制台错误。
-5. 测试结束后关闭 `agent-browser` 会话，并清理本次测试启动的 VitePress dev server、preview server、LSP server 等后台进程。
+5. 测试结束后关闭 `playwright-cli` 会话，并清理本次测试启动的 VitePress dev server、preview server、LSP server 等后台进程。
 
 本项目不使用 Playwright 做浏览器验证；该工具在 Windows 环境存在已知问题。
 

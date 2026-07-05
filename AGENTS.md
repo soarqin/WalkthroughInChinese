@@ -31,9 +31,9 @@
 
 ## 测试方案
 
-- 浏览器验证统一使用 `agent-browser`。
-- 不使用 Playwright；该工具在 Windows 环境存在已知问题。
-- 验证流程：运行 `pnpm run docs:preview`，使用 `agent-browser` 打开首页、攻略目录页和至少 1 个被修改的 Markdown 页面。
+- 浏览器验证统一使用 `playwright-cli`。
+- 不使用 Playwright MCP；该工具在 Windows 环境存在已知问题。
+- 验证流程：运行 `pnpm run docs:preview`，使用 `playwright-cli` 打开首页、攻略目录页和至少 1 个被修改的 Markdown 页面。
 - 验证内容：页面标题、导航跳转、本地搜索入口和控制台错误。
 - 测试结束后必须清理所有本次测试启动的服务进程，包括 VitePress dev server、preview server、LSP server 和浏览器会话。
 - 不允许留下占用端口、后台运行或影响后续测试的 server 进程。
