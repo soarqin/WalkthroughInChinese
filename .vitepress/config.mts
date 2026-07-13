@@ -51,6 +51,14 @@ export default defineConfig({
             { text: '白金路线', link: '/games/tales-of-symphonia/白金路线' },
             { text: '流程与战斗奖杯', link: '/games/tales-of-symphonia/奖杯攻略-流程与战斗' },
             { text: '称号与收集奖杯', link: '/games/tales-of-symphonia/奖杯攻略-称号与收集' },
+            {
+              text: '收集自查表',
+              items: [
+                { text: '宝箱自查表', link: '/games/tales-of-symphonia/宝箱自查表' },
+                { text: '道具图鉴自查表', link: '/games/tales-of-symphonia/道具图鉴自查表' },
+                { text: '魔物图鉴自查表', link: '/games/tales-of-symphonia/魔物图鉴自查表' }
+              ]
+            },
             { text: '支线与挑战奖杯', link: '/games/tales-of-symphonia/奖杯攻略-支线与挑战' },
             { text: '名词对照表', link: '/games/tales-of-symphonia/名词对照表' }
           ]
